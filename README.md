@@ -14,9 +14,7 @@
   
     2、工程要自行下载react-navigation和react-native-vector-icons两个组件;
 
-    3、开始使用
-    
-                                              
+    3、开始使用<br>                                 
         (1) 在要自定义的当前页里,import 导入自定义的CustomerHeadView组件,
 
         (2) 在上一页设置下一页 header : null,
