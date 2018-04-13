@@ -1,6 +1,7 @@
 # react-navigation-CustomerHeadView
 
   集成react-navigation的自定义Head视图
+  使用与剥离自由，可单独某页面自定义，也可全局自定义！
 
   ######使用场景######
   
@@ -19,5 +20,7 @@
     (3) 设置需要属性.
 
 
-  4、地址里,存有示意截图,可助于理解使用.<br>                                
+  4、地址里,存有示意截图,可助于理解使用.
+  
+  
   ![Image text](https://github.com/183959633/react-navigation-CustomerHeadView/raw/master/下一页.png)
