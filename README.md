@@ -2,7 +2,8 @@
 
   集成react-navigation的自定义Head视图
 
-  ######使用场景###### 
+  ######使用场景######
+  
   需要在导航栏添加点击事件，由于取不到 this 自定义头部，随心所欲！
 
   ######使用方法###### 
@@ -18,5 +19,5 @@
     (3) 设置需要属性.
 
 
-  4、地址里,存有示意截图,可助于理解使用.                                
+  4、地址里,存有示意截图,可助于理解使用.<br>                                
   ![Image text](https://github.com/183959633/react-navigation-CustomerHeadView/raw/master/下一页.png)
